@@ -8510,25 +8510,25 @@ header {
 
 @-webkit-keyframes myanimation {
   0% {
-    background-color: #69779b; }
+    background-color: #13021f; }
   25% {
-    background-color: #f8b500; }
+    background-color: #2b133b; }
   50% {
-    background-color: #212121; }
+    background-color: #3a035e; }
   75% {
-    background-color: #064acb; }
+    background-color: #38035c; }
   100% {
     background-color: #69779b; } }
 
 @keyframes myanimation {
   0% {
-    background-color: #69779b; }
+    background-color: #13021f; }
   25% {
-    background-color: #f8b500; }
+    background-color: #2b133b; }
   50% {
-    background-color: #212121; }
+    background-color: #3a035e; }
   75% {
-    background-color: #064acb; }
+    background-color: #38035c; }
   100% {
     background-color: #69779b; } }
 
